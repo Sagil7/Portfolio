@@ -13,6 +13,8 @@ function Modal() {
    "color":"white"
  
   }}
+
+  // Hi this is just to check git
    >
   Privacy Policy
 </div >
