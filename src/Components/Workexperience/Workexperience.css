@@ -1,0 +1,56 @@
+
+.box{
+    /* border: 1px solid green; */
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #EADBC8;
+    padding: 10px 0px;
+    border-radius: 10px;
+
+}
+#workexp{
+    padding-top: 75px;
+   
+   
+    text-align: center;
+}
+.companyname{
+    padding-left: 1.5rem;
+    text-align: left;
+    /* border: 1px solid yellow; */
+    font-size: 1.3rem;
+    font-weight: 500;
+
+}
+.position{
+    padding-left: 1.5rem;
+    text-align: left;
+    /* border: 1px solid red; */
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.content{
+    padding-left: 1.5rem;
+    text-align: left;
+    font-weight: 500;
+
+}
+.techused{
+    /* border: 1px solid blue; */
+    margin-top: 10px ;
+    display: flex;
+    justify-content: center;
+    
+}
+@media (max-width:1050px)
+{
+    .box{
+        /* border: 1px solid green; */
+        width: 95%;
+    }
+    .content{
+        padding-left: 0.7rem;
+        text-align: left;
+    }
+}

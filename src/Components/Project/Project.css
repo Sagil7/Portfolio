@@ -1,0 +1,21 @@
+.Outerbox{
+     /* border: 1px solid blue; */
+    /* width: 100%;
+   height: 100vh;  */
+
+    background-color: #F8F0E5;
+    /* display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-items: center;  */
+    
+}
+#Title{
+    padding-top: 75px;
+    margin-bottom: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+    text-align: center;
+
+ 
+}

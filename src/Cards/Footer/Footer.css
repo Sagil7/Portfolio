@@ -1,0 +1,21 @@
+.footercont{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    padding: 10px 20%;
+    
+}
+.footercont p{
+    color: white;
+}
+
+
+@media ((max-width:860px))
+{
+    .footercont{
+        flex-direction: column;
+    }
+    .footercont p{
+        margin: 0;
+    }
+}

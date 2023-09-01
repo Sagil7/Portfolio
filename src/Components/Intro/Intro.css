@@ -1,0 +1,17 @@
+.backimg{
+display: flex;
+background-image: url('./backgroundimg3.jpg');
+height: 100vh;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+justify-content: center;
+align-items: center;
+
+}
+.innercontent{
+    
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}

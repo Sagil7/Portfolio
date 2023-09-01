@@ -1,0 +1,40 @@
+.footerbox{
+   /* border: 1px solid red; */
+   display: flex;
+   /* padding: 0 15%; */
+   justify-content: center;
+   background-color: #102C57;
+   width: 60%;
+   margin: 5px auto;
+   border-top-left-radius: 25px;
+   border-top-right-radius: 25px;
+  
+
+   
+}
+contactheading h1{
+    text-align: center;
+}
+.footercontainer{
+    /* border: 1px solid blue; */
+    margin: 10px;
+    
+}
+a{ font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+.footertitle{
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: white;
+}
+
+@media ((max-width:860px))
+{
+    .footerbox{
+        width: 100%;
+    }
+}
