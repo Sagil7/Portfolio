@@ -35,7 +35,7 @@ const handleClick =() =>{
           <ul className="navitems">
           
             <li class="nav-item">
-              <HashLink class="nav-link" to="#Intro" onClick={handleClick}>Sagil</HashLink>
+              <HashLink class="nav-link" to="#Intro" onClick={handleClick}>Home</HashLink>
             </li>
             <li class="nav-item">
               <HashLink class="nav-link" to="#About" onClick={handleClick}>About</HashLink>
