@@ -19,7 +19,7 @@ import Modal from './Cards/Modal/Modal';
 function App() {
   return (
  <>
-    
+    {/* dalkjg */}
     <BrowserRouter>
     <Navbar2/>
     
