@@ -1,5 +1,5 @@
 import React from 'react'
-import backgroundimg from './backgroundimg.jpg'
+// import backgroundimg from './backgroundimg.jpg'
 import './Intro.css'
 
 function Intro() {

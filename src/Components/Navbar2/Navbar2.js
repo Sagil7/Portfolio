@@ -2,7 +2,7 @@ import { useState, useEffect,useRef } from "react";
 import "./Navbar2.css";
 // import {Link} from 'react-scroll'
 import {HashLink} from 'react-router-hash-link'
-import { a ,Link} from 'react-router-dom';
+// import { a ,Link} from 'react-router-dom';
 import Logo from './Mylogo.png'
 function Navbar() {
   const [val, setVal] = useState("navbox")
