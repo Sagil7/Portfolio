@@ -32,7 +32,7 @@ function App() {
 
      <Contact/>
      <Footer/>
-     <Modal/>
+     {/* <Modal/> */}
      </BrowserRouter>
      {/* <Contact/> */}
      

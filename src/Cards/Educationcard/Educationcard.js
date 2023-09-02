@@ -10,7 +10,7 @@ function Educationcard(props) {
   <div class="card-body">
     <h5 class="card-title">{props.title}</h5>
     <p class="card-text">{props.innercontent}</p>
-    <p class="card-text">{props.course}</p>
+    <p class="card-text">{props.course} </p> 
     <a href={props.link} target="_blank" class="btn btn-primary">Visit </a>
   </div>
 </div>
