@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: space-between;
     border: 0.1px solid black;
-    padding: 0 40px;
+    /* padding: 0 40px; */
 }
 .email {
     font-size: 14px;
@@ -37,9 +37,9 @@
     width: 15px;
     
 }
-.socialmedia{
+/* .socialmedia{
     float: right;
-
+    align-self: center;
 }
 .socialmedia a{
     text-decoration: none;
@@ -47,9 +47,9 @@
 
 .socialmedia i{
     color: black;
-    padding: 8px;
+    padding: 6px;
     transition: all 0.7s ease;
-}
+} */
 #twiter:hover {
     color: #00acee;
     transition: all 0.7s ease;

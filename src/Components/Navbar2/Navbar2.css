@@ -88,9 +88,28 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transition: all 0.7s ease;
   }
+  .socialmedia{
+    position: relative;
+    top: -8px;
+    float: right;
+    align-self: center;
+}
+.socialmedia a{
+    text-decoration: none;
+}
+
+.socialmedia i{
+    color: black;
+    padding: 8px;
+    transition: all 0.7s ease;
+    font-size: 16px;
+}
   @media (max-width: 850px)  {
       #click:checked ~ .menu-btn i:before{
     content: "\f00d";
+      }
+      .socialmedia{
+        display: none;
       }
   .navitems{
       flex-direction: column;

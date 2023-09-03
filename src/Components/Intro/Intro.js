@@ -6,8 +6,9 @@ function Intro() {
   return (
     <div id="Intro">
     <div className="backimg">
+      <p>Hi I'm Sagil Faraz</p>
         <div className="innercontent">
-            Hi This is Sagil Faraz You are watching me on my website You are Welcome.
+           A computer science student passionate about programming and design.
         </div>
     </div>
     </div>

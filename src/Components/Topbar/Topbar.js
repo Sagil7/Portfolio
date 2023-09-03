@@ -18,7 +18,6 @@ function Topbar() {
      <a href="https://www.instagram.com/sagilfaraz/"  target="_blank" ><i className="fa-brands fa-instagram" id="insta"></i></a>
      <a href="https://github.com/Sagil7"  target="_blank" ><i className="fa-brands fa-github" id="youtube"></i></a>
      <a href="https://www.linkedin.com/in/sagil-faraz/"  target="_blank"><i className="fa-brands fa-linkedin-in" id="linkdin"></i></a>
-     
      </div>
     </div>
     </>

@@ -52,9 +52,18 @@ const handleClick =() =>{
             <li class="nav-item">
               <HashLink  class="nav-link" to="#Education" onClick={handleClick}>Education</HashLink>
             </li>
-
+            <li class="nav-item">
+              <HashLink  class="nav-link" to="#Contact" onClick={handleClick}>Contact</HashLink>
+            </li>
+             
             
           </ul>
+          <div className="socialmedia">
+     <a href="https://www.facebook.com/sagil.faraz/"  target="_blank"><i className="fa-brands fa-facebook-f" id="facebook"></i></a>
+     <a href="https://www.instagram.com/sagilfaraz/"  target="_blank" ><i className="fa-brands fa-instagram" id="insta"></i></a>
+     <a href="https://github.com/Sagil7"  target="_blank" ><i className="fa-brands fa-github" id="youtube"></i></a>
+     <a href="https://www.linkedin.com/in/sagil-faraz/"  target="_blank"><i className="fa-brands fa-linkedin-in" id="linkdin"></i></a>
+     </div>
           
         </div>
       </header>

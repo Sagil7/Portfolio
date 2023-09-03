@@ -1,17 +1,28 @@
 .backimg{
 display: flex;
-background-image: url('./backgroundimg3.jpg');
+background-image: url('./backgroundimg2.jpg');
 height: 100vh;
 background-repeat: no-repeat;
 background-size: 100% 100%;
-
 justify-content: center;
 align-items: center;
+flex-direction: column;
 
+}
+.backimg p{
+    text-align: center;
+    color: #2a246c;
+    font-size: 40px;
+    font-weight: bold;
 }
 .innercontent{
     
     color: white;
     font-size: 22px;
     font-weight: 300;
+}
+@media (max-width: 600px) {
+    .backimg{
+        height: 60vh;
+    }
 }

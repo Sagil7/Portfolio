@@ -4,6 +4,7 @@ import './Contact.css'
 function Contact() {
   return (
     <>
+    <div id='Contact'>
     <h1 id='contactheading'>Contact</h1>
     <div className="footerbox">
         
@@ -41,7 +42,7 @@ function Contact() {
       
          </div> */}
     </div>
-    
+    </div>
     </>
   )
 }

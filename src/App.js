@@ -22,7 +22,7 @@ function App() {
  <>
     {/* dalkjg */}
     <BrowserRouter>
-    <Topbar/>
+    {/* <Topbar/> */}
     <Navbar2/>
     
      <Intro/>
