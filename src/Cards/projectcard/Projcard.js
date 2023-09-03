@@ -19,8 +19,8 @@ function Projcard() {
         An application built with React that provides access to news articles across various categories by seamlessly integrating data from an API.
         </p>
       
-        <a href="#" class="read-more">
-          View Code  <span class="sr-only">about this is some title</span>
+        <a href="https://github.com/Sagil7/NewsDekho" class="read-more" target="_blank">
+            <span class="sr-only">about this is some title</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>
@@ -39,8 +39,8 @@ function Projcard() {
         <p>
         I completed this project during my internship in which I created a website for their affiliated company. Within this project, I designed and implemented more than 10 React-based components.
         </p>
-        <a href="#" class="read-more">
-          View Code <span class="sr-only">about this is some title</span>
+        <a href="https://maanof.org/" class="read-more" target="_blank">
+          <span class="sr-only">about this is some title</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>
@@ -59,8 +59,8 @@ function Projcard() {
         <p>
         Web Portfolio to showcase acadmics, skills, projects and contact details in better manner
         </p>
-        <a href="#" class="read-more">
-          View Code <span class="sr-only">about this is some title</span>
+        <a href="https://github.com/Sagil7/Portfolio.git" class="read-more" target="_blank">
+           <span class="sr-only">about this is some title</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>

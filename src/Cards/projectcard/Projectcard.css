@@ -113,7 +113,7 @@ article {
       container: card/inline-size;
     }
     .article-body p {
-      display: none;
+      /* display: none; */
     }
   }
   

@@ -1,6 +1,6 @@
 .Outercont{
     display: flex;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     justify-content: space-evenly;
     flex-wrap: wrap;
     padding: 0 50px; 

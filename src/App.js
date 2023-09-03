@@ -13,6 +13,7 @@ import Contact from './Components/Contact/Contact';
 import Navbar2 from './Components/Navbar2/Navbar2';
 import Footer from './Cards/Footer/Footer';
 import Modal from './Cards/Modal/Modal';
+import Topbar from './Components/Topbar/Topbar';
 
 
 
@@ -21,6 +22,7 @@ function App() {
  <>
     {/* dalkjg */}
     <BrowserRouter>
+    <Topbar/>
     <Navbar2/>
     
      <Intro/>

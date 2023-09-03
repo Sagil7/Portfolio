@@ -8,9 +8,9 @@ function Workexperience() {
         <h1 id='workexp'>Work Experience</h1>
       <div className="box"> 
       
-        <div className="companyname"> <p>Ltimindtree</p> </div>
+        <div className="companyname"> <p>Maanof Pvt Ltd</p> </div>
         <div className="position">
-          <p>FroneEnd Developer</p>
+          <p>FrontEnd Developer</p>
           <p id='date'>june 2022 - Sep 2022</p>
           </div>
         <div className="content">
@@ -21,34 +21,35 @@ development efficiency.</li>
           
         </div>
         <div className="techused">
-            <Techcard val="Java"/>
-            <Techcard val="Angular"/>
-            <Techcard val="Java"/>
-            <Techcard val="Java"/>
-            <Techcard val="Java"/>
-            <Techcard val="Java"/>
+            <Techcard val="HTML"/>
+            <Techcard val="CSS"/>
+            <Techcard val="ReactJs"/>
+            <Techcard val="Netlify"/>
+            <Techcard val="Npm"/>
+            {/* <Techcard val="Java"/> */}
         </div>
       </div>
       <div className="box"> 
       
         <div className="companyname"> <p>Ltimindtree</p> </div>
         <div className="position">
-          <p>FroneEnd Developer</p>
-          <p id='date'>june 2022 - Sep 2022</p>
+          <p>Graduate Engineer Trainee</p>
+          <p id='date'>Feb 2023 - May 2023</p>
           </div>
         <div className="content">
-           <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis facilis magni quaerat? Quis, illo aspernatur Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, accusamus?</li>
-           <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis facilis magni quaerat? Quis, illo aspernatur.</li>
-           <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis facilis magni quaerat? Quis, illo aspernatur.</li>
+           <li>Attained a solid grasp of core Java concepts, including object-oriented programming, data types, control structures, and exception handling,
+which enabled me to successfully develop and contribute to Java-based projects during the internship.</li>
+           <li>Developed and implemented 15+ front-end components using HTML, CSS, and JavaScript, resulting in a 20% improvement in user
+experience feedback and a 25% increase in overall application responsiveness</li>
           
         </div>
         <div className="techused">
             <Techcard val="Java"/>
-            <Techcard val="Angular"/>
-            <Techcard val="Java"/>
-            <Techcard val="Java"/>
-            <Techcard val="Java"/>
-            <Techcard val="Java"/>
+            <Techcard val="Python"/>
+            <Techcard val="SQL"/>
+            <Techcard val="JDBC"/>
+            <Techcard val="HTML/CSS"/>
+            {/* <Techcard val="Java"/> */}
         </div>
       </div>
     </div>
