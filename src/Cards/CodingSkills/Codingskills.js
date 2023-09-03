@@ -4,7 +4,7 @@ import CountUp from 'react-countup';
 
 function Codingskills() {
   return (
-    <div className="Codingouterbox"> <h2 id="codingskill">Coding Skills</h2>
+    <div className="Codingouterbox"> <h1 id="codingskill">Coding Score</h1>
        <div class="ag-format-container">
   <div class="ag-courses_box">
     <div class="ag-courses_item">
