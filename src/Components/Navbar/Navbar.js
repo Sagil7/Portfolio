@@ -12,7 +12,7 @@ function Navbar() {
         <img src={profilepic} alt="bitmoji" />
             <li className="Navitem"><a href="/">home</a></li>
             <li className="Navitem"><a href="#About">About</a></li>
-            <li className="Navitem"><HashLink to="#Project">Project</HashLink></li>
+            <li className="Navitem"><HashLink to="#Project">Projects</HashLink></li>
             <li className="Navitem">Contact</li>
             <li className="Navitem">Work experience</li>
         </ul>

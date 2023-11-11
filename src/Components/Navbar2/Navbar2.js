@@ -41,10 +41,10 @@ const handleClick =() =>{
               <HashLink class="nav-link" to="#About" onClick={handleClick}>About</HashLink>
             </li>
             <li class="nav-item">
-              <HashLink class="nav-link" to="#Skill" onClick={handleClick}>Skill</HashLink>
+              <HashLink class="nav-link" to="#Skill" onClick={handleClick}>Skills</HashLink>
             </li>
             <li class="nav-item">
-              <HashLink class="nav-link" to="#Project" onClick={handleClick}>Project</HashLink>
+              <HashLink class="nav-link" to="#Project" onClick={handleClick}>Projects</HashLink>
             </li>
             <li class="nav-item">
               <HashLink class="nav-link" to="#Workexperience" onClick={handleClick}>Workexperience</HashLink>

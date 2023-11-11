@@ -8,7 +8,7 @@ function Intro() {
     <div className="backimg">
       <p>Hi I'm Sagil Faraz</p>
         <div className="innercontent">
-           A computer science student passionate about programming and design.
+           A computer science student passionate about programming and development.
         </div>
     </div>
     </div>
