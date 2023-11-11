@@ -101,7 +101,7 @@ Experienced in developing dynamic web applications using React.js, a premier Jav
             <div class="article-body">
               <h2>TextUtil</h2>
               <p>
-                Web Portfolio to showcase acadmics, skills, projects and contact details in better manner
+              Developed a simple application utilizing React state concepts, seamlessly converting text between uppercase and lowercase in real-time. The app also features a dynamic word count functionality, providing a responsive and user-friendly experience.
               </p>
               <a href="https://github.com/Sagil7/Portfolio.git" class="read-more" target="_blank">
                 <span class="sr-only">about this is some title</span>

@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import profilepic from './sagil.jpg'
+import profilepic from './sagil.png'
 
 
 
