@@ -1,3 +1,22 @@
+.buttonscontainer{
+  display: flex;
+  justify-content: space-around;  
+  position: absolute;
+  bottom: 0;
+  
+}
+.githubbutton{
+  margin: 0px 35px;
+background-color: green;
+color: white;
+}
+.livebutton{
+  margin: 0px 40px;
+
+ background-color: blue;
+ color: white;
+
+}
 article {
     --img-scale: 1.001;
     --title-color: black;
@@ -12,13 +31,7 @@ article {
     overflow: hidden;
   }
   
-  article a::after {
-    position: absolute;
-    inset-block: 0;
-    inset-inline: 0;
-    cursor: pointer;
-    content: "";
-  }
+
   
   /* basic article elements styling */
   article h2 {
@@ -48,26 +61,10 @@ article {
     padding: 24px;
   }
   
-  article a {
-    display: inline-flex;
-    align-items: center;
-    text-decoration: none;
-    color: #28666e;
-  }
+
   
-  article a:focus {
-    outline: 1px dotted #28666e;
-  }
-  
-  article a .icon {
-    min-width: 24px;
-    width: 24px;
-    height: 24px;
-    margin-left: 5px;
-    transform: translateX(var(--link-icon-translate));
-    opacity: var(--link-icon-opacity);
-    transition: all 0.3s;
-  }
+ 
+
   
   /* using the has() relational pseudo selector to update our custom properties */
   article:has(:hover, :focus) {
