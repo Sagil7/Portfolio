@@ -29,7 +29,7 @@ function Projcard() {
                 <a href="https://github.com/Sagil7/Noteoncloud.git" target='_blank'>
                   <button className='githubbutton'>github</button>
                 </a>
-                <a href="https://sagilcrud.netlify.app/signupt" target='_blank'>
+                <a href="https://sagilcrud.netlify.app/" target='_blank'>
                   <button className='livebutton'>livelink</button>
                 </a>
              
